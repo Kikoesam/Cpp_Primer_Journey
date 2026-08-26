@@ -5,7 +5,7 @@ I am Kerolos Essam, a recent Electronics and Communications Engineering graduate
 The goal is not to look advanced. The goal is to become capable of writing, explaining, debugging, and improving C++ programs independently.
 
 <div align="center">
-  
+
 [![Chapter](https://badgen.net/badge/Current%20Chapter/2/blue)](chapters/chapter-2)
 [![Exercises](https://badgen.net/badge/C%2B%2B%20Exercises/8/green)](chapters)
 [![Lines](https://badgen.net/badge/Lines%20of%20C%2B%2B/141/orange)](chapters)
@@ -13,8 +13,8 @@ The goal is not to look advanced. The goal is to become capable of writing, expl
 </div>
 
 ## 📊 Live Progress
-**Last Updated:** August 26, 2026  
-**Current Focus:** Chapter 2, Section 2.1 - Primitive Built-in Types  
+**Last Updated:** August 26, 2026<br>
+**Current Focus:** Chapter 2, Section 2.1 - Primitive Built-in Types<br>
 **Next Goal:** Understand arithmetic types, type conversions, and literals, then complete the related exercises
 
 
@@ -66,4 +66,3 @@ I publish practical videos about what I build, what confused me, and what I lear
 ## 📝 Current Work
 
 I have completed the Chapter 1 exercises and started Chapter 2. My current experiment intentionally demonstrates why an unsigned countdown condition can remain true after reaching zero.
-
